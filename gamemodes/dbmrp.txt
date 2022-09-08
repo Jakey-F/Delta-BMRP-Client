@@ -1,0 +1,6 @@
+"dbmrp"
+{
+	"title"		"Delta | Black Mesa Roleplay"
+	"base"		"darkrp"
+	"menusystem"	"1"
+}
